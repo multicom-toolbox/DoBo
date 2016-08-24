@@ -8,7 +8,7 @@ http://sysbio.rnet.missouri.edu/dobo/
 Installation
 ------------
 (1) Download 'dobo.zip', 'models.zip', 'programs.zip', and 'db.zip' into a folder
-    Download URL: http://sysbio.rnet.missouri.edu/dobo/jobs/tool/downloads/
+    Download URL: http://sysbio.rnet.missouri.edu/bdm_download/dobo/downloads/
     $ mkdir dobo
     $ cd dobo 
 (2) Unzip the files
